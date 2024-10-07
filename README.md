@@ -18,7 +18,7 @@ The `DateRangePicker` depends on the following components from shadcn:
 If you are using the CLI for installation, you can do this:
 
 ```
-npx shadcn-ui@latest add button calendar label popover switch
+npx shadcn@latest add button calendar label popover switch
 ```
 
 The DateRangePicker uses [icons from Radix UI](https://icons.radix-ui.com/) so you will need to install that or update the component to use a different library.
